@@ -1,0 +1,23 @@
+===== RESULTADOS DA SIMULAÇÃO =====
+
+Fila 1:
+Tempo final da simulação: 250482.2916
+Clientes perdidos: 238
+Distribuição de estados (aprox.):
+Estado 0: 0.0201
+Estado 1: 0.5663
+Estado 2: 0.3812
+Estado 3: 0.0323
+
+Fila 2:
+Tempo final da simulação: 250482.2916
+Clientes perdidos: 1462
+Distribuição de estados (aprox.):
+Estado 0: 0.0183
+Estado 1: 0.1876
+Estado 2: 0.2683
+Estado 3: 0.2525
+Estado 4: 0.2102
+Estado 5: 0.0631
+
+Total de clientes atendidos na fila 2: 98300
